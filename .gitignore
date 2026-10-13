@@ -1,0 +1,23 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# Private task history
+data/real_sessions.csv
+
+# Generated models
+models/*.joblib
+
+# Environment variables
+.env
+
+# System files
+.DS_Store
+Thumbs.db
